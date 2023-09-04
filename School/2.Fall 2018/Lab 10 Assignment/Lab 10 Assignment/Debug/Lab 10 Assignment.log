@@ -1,5 +1,0 @@
-﻿  Source.cpp
-q:\source\repos\lab 10 assignment\lab 10 assignment\source.cpp(36): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
-q:\source\repos\lab 10 assignment\lab 10 assignment\source.cpp(41): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
-q:\source\repos\lab 10 assignment\lab 10 assignment\source.cpp(46): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
-  Lab 10 Assignment.vcxproj -> Q:\source\repos\Lab 10 Assignment\Debug\Lab 10 Assignment.exe

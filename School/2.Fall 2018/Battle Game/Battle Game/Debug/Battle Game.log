@@ -1,9 +1,0 @@
-﻿  Player.cpp
-  Source.cpp
-  Generating Code...
-LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/FORCE' specification
-Source.obj : warning LNK4006: "public: __thiscall Utils::Utils(void)" (??0Utils@@QAE@XZ) already defined in Character.obj; second definition ignored
-Source.obj : warning LNK4006: "int __cdecl GetRandom(int,int)" (?GetRandom@@YAHHH@Z) already defined in Character.obj; second definition ignored
-Source.obj : warning LNK4006: "public: int __thiscall Utils::GetUserInput(int,int)" (?GetUserInput@Utils@@QAEHHH@Z) already defined in Character.obj; second definition ignored
-C:\Users\Emc11\Dropbox\Software\Fall 2018\Battle Game\Debug\Battle Game.exe : warning LNK4088: image being generated due to /FORCE option; image may not run
-  Battle Game.vcxproj -> C:\Users\Emc11\Dropbox\Software\Fall 2018\Battle Game\Debug\Battle Game.exe

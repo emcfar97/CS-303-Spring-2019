@@ -1,8 +1,0 @@
-﻿  Source.cpp
-c:\users\emc11\dropbox\software\fall 2018\grade system\grade system\source.cpp(18): error C2062: type 'char' unexpected
-c:\users\emc11\dropbox\software\fall 2018\grade system\grade system\source.cpp(67): error C2065: 'grade': undeclared identifier
-c:\users\emc11\dropbox\software\fall 2018\grade system\grade system\source.cpp(70): error C2065: 'grade': undeclared identifier
-c:\users\emc11\dropbox\software\fall 2018\grade system\grade system\source.cpp(73): error C2065: 'grade': undeclared identifier
-c:\users\emc11\dropbox\software\fall 2018\grade system\grade system\source.cpp(76): error C2065: 'grade': undeclared identifier
-c:\users\emc11\dropbox\software\fall 2018\grade system\grade system\source.cpp(79): error C2065: 'grade': undeclared identifier
-c:\users\emc11\dropbox\software\fall 2018\grade system\grade system\source.cpp(84): error C2065: 'grade': undeclared identifier
