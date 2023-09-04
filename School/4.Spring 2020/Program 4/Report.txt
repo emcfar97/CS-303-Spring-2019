@@ -1,4 +1,0 @@
-
-The assingment brief wasn't very clear about the value that the csv data was supposed to be fitted against so as to predict overall ratings, so I just used the star values. 
-The model architecture is pretty simple, just a sequence of flatten, dense, dropout, and dense layers. For the cross validation, I just reserved about a fifth of the dataset for testing. I don't know if this is the appropriate architecture for the problem, since I wasn't able to format the data for the model.
-There's pretty much no good documentation online for how to do this task, so I banged my head against a wall for days trying to make it work. Eventually, I gave up

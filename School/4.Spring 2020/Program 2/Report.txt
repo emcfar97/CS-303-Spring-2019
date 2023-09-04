@@ -1,3 +1,0 @@
-
-I spent a lot of time in the beginning trying to come up with a group of data structures that would have natural collision detection without the need for explicit defining of rules. Eventually, I realized that I needed to just take a page from smart algorithms and just start with something and then work from there.
-Perhaps unsurprisingly, I ended up with a mess of a fitness function that I'm pretty sure doesn't work properly, if the outputted schedules are anything to go by. If I'd started earlier, I could have worked out the kinks and streamlined a lot of the functionality.
